@@ -1,2 +1,0 @@
-# neovison.github.io
-serv
