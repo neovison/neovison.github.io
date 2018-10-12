@@ -16,7 +16,7 @@
 
     switch($data->type) {
 	    case 'confirmation':
-	    	echo $conf['contorm_token'];
+	    	echo '34e9d426';
 		    break;
     	case "message_new":
 	    	if($mess == $conf['mess']) {
